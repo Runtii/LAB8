@@ -47,7 +47,7 @@ jobs:
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,mode=max,dest=/tmp/.buildx-cache-new
           tags: |
-            runtii/lab8:gh_lab80
+            runtii/lab8:gh_lab8
 
       - name: Move cache
         run: |
