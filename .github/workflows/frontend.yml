@@ -30,4 +30,4 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            runtii/lab:ghfrontend1
+            runtii/lab8:ghfrontend1
